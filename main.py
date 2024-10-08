@@ -59,7 +59,7 @@ def start(message):
 
     bot.send_message(message.chat.id, """Welcome to the StonkSense Bot!
 
-I can help you check the latest stock prices. Just type the stock symbol (like AAPL for Apple or TSLA for Tesla) and I'll give you the current price.
+I can help you check the latest stock prices. Just type the name of the stock (like Vodafone Idea) and I'll give you the current details of the stock.
 
 Let’s get started! 📈""", reply_markup=markup)
 
