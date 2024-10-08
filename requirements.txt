@@ -1,0 +1,4 @@
+beautifulsoup4
+pyTelegramBotAPI
+requests
+python-dotenv
